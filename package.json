@@ -1,0 +1,25 @@
+{
+  "name": "mithril-gettingstarted-es6-webloader",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack",
+    "webpack-prod": "webpack -p",
+    "start": "webpack-dev-server"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "mithril": "*"
+  },
+  "devDependencies": {
+    "babel-core": "*",
+    "babel-loader": "*",
+    "file-loader": "*",
+    "html-webpack-plugin": "*",
+    "webpack": "*",
+    "webpack-dev-server": "*"
+  }
+}
