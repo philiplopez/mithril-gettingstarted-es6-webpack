@@ -6,7 +6,7 @@ This repo is simply an exercise walking through the [Mithril](http://lhorie.gith
 
 ```
 npm install
-npm run     # runs webpack-dev-server
+npm start     # runs webpack-dev-server
 ```
 
 See `src/js/main.js` for the code (all in one file) and read the inline comments for interesting notes.
